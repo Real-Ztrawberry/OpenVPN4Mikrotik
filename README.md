@@ -13,7 +13,7 @@ modprobe tun
 Next, get the script and make it executable:
 
 ```bash
-Download the script openvpn4mikrotik-install.sh
+curl -O https://raw.githubusercontent.com/Real-Ztrawberry/openvpn4mikrotik/master/openvpn4mikrotik-install.sh
 chmod +x openvpn4mikrotik-install.sh
 ```
 
