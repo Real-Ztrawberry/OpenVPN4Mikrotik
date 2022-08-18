@@ -10,10 +10,14 @@ You need to run the script as root and have the TUN module enabled.
 ```
 modprobe tun
 ```
-Next, get the script and make it executable:
+Next, get the script:
 
 ```bash
 curl -O https://raw.githubusercontent.com/Real-Ztrawberry/openvpn4mikrotik/master/openvpn4mikrotik-install.sh
+```
+
+Make it executable:
+```
 chmod +x openvpn4mikrotik-install.sh
 ```
 
