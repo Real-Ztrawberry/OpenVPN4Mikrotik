@@ -7,8 +7,9 @@ This script will let you setup your own secure VPN server in just a few seconds.
 ## Usage
 
 You need to run the script as root and have the TUN module enabled.
-```modprobe tun
-
+```
+modprobe tun
+```
 Next, get the script and make it executable:
 
 ```bash
