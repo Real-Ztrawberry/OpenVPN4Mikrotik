@@ -2,6 +2,8 @@
 
 OpenVPN installer for Debian, Ubuntu, Fedora, CentOS, Arch Linux, Oracle Linux, Rocky Linux and AlmaLinux which ensures a workable configuration for Mikrotik RouterOS devices as CLIENTS.
 
+Please ensure that you upgraded the Mikrotik device to at least 7.3.1 to ensure compatibility.
+
 This script will let you setup your own secure VPN server in just a few seconds.
 
 ## Usage
